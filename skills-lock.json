@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "docx": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "c344d313b454adec2a8e68975b72f474990a92670a40b3b275f3ce523b077925"
+    },
+    "excalidraw-diagram-generator": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "20bad48f0ec420a42b445ee6562b5d954be42754e9c21f9db8c6b2a7f91cbed5"
+    }
+  }
+}
