@@ -1,0 +1,2 @@
+smithery-ai/docx
+smithery-ai/excalidraw-diagram-generator
